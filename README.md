@@ -1,12 +1,14 @@
-### Hi there 👋
+### Hi 👋, I'm Mertcan Taşkıran
 
 - 🔭 I’m currently working on React.js, Java
 - 🌱 I’m currently learning FRONTEND and BACKEND
 
+- 📫 How to reach mertcn.taskiran@gmail.com
+
 Öz Geçmiş --> [mertcantaskiran-cv.pdf](https://github.com/mertcan-taskiran/mertcan-taskiran/files/11405671/mertcantaskiran-cv.pdf)
 
 
-### Connect with me:
+### Socials:
 
 [<img align="left" alt="yourusername | LinkedIn" width="25px" height="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="yourusername | Instagram" width="25px" height="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />][instagram]
