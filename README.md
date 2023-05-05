@@ -10,19 +10,6 @@
 
 Öz Geçmiş --> [mertcantaskiran-cv.pdf](https://github.com/mertcan-taskiran/mertcan-taskiran/files/11405671/mertcantaskiran-cv.pdf)
 
-## 🌐Socials
-
-[<img align="left" alt="yourusername | LinkedIn" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="yourusername | Instagram" width="50px" height="50px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="your-discord-username | Discord" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/discord--v1.png" />][discord]
-
-[linkedin]: https://linkedin.com/in/mertcntaskiran/
-[instagram]: https://instagram.com/mertcan.tskrn/
-[discord]: https://discordapp.com/users/Mertcan#0694
-
-<br>
-<br>
-
 ## 💻 Technologies
 
 <div>
