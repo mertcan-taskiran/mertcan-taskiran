@@ -1,4 +1,4 @@
-## <div style:"text-align:center;">Hi 👋, I'm Mertcan Taşkıran</div>
+## Hi 👋, I'm Mertcan Taşkıran
 
 - 🔭 I’m currently working on React.js, Java
 - 🌱 I’m currently learning FRONTEND and BACKEND
