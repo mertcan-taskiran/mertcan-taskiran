@@ -40,5 +40,5 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mertcan-taskiran)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mertcan-taskiran&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
