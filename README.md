@@ -31,3 +31,5 @@
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C#" width="25" height="25" style="margin-right: 10px;">
   <img src="https://img.icons8.com/color/48/000000/asp.png" alt="ASP.NET" width="25" height="25">
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertcan-taskiran&show_icons=true&theme=radical)
