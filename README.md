@@ -8,8 +8,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="mertcan.tskrn | Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />][instagram]
 [<img align="left" alt="yourusername | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="yourusername | Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />][instagram]
+[<img align="left" alt="your-discord-username | Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />][discord]
 
-[instagram]: https://instagram.com/mertcan.tskrn/
 [linkedin]: https://linkedin.com/in/mertcntaskiran/
+[instagram]: https://instagram.com/mertcan.tskrn/
+[discord]: https://discordapp.com/users/Mertcan#0694
+
