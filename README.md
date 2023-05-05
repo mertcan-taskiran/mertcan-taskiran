@@ -22,14 +22,14 @@
 ## 💻 Technologies
 
 <div>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="25" height="25" style="margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="25" height="25" style="margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/sass-avatar.png" alt="SCSS" width="25" height="25" style="margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="25" height="25" style="margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="50" height="50" style="margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="50" height="50" style="margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/sass-avatar.png" alt="SCSS" width="50" height="50" style="margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="50" height="50" style="margin-right: 10px;">
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="25" height="25" style="margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="25" height="25" style="margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C#" width="25" height="25" style="margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/asp.png" alt="ASP.NET" width="25" height="25">
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="50" height="50" style="margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C#" width="50" height="50" style="margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/asp.png" alt="ASP.NET" width="50" height="50">
 </div>
 
 ## 📊 GitHub Stats
