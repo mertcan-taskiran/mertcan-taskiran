@@ -1,4 +1,5 @@
 ### Hi 👋, I'm Mertcan Taşkıran
+<hr />
 
 - 🔭 I’m currently working on React.js, Java
 - 🌱 I’m currently learning FRONTEND and BACKEND
