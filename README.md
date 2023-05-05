@@ -19,7 +19,7 @@
 
 <br>
 
-## 💻 Technologies
+## Technologies
 
 <div>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="50" height="50" style="margin-right: 10px;">
