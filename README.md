@@ -17,6 +17,7 @@
 [instagram]: https://instagram.com/mertcan.tskrn/
 [discord]: https://discordapp.com/users/Mertcan#0694
 
+<br>
 
 ## Technologies
 
