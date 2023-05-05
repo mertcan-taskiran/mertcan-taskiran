@@ -24,7 +24,7 @@
 <div>
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" alt="HTML" width="25" height="25" style="margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" alt="CSS" width="25" height="25" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/sass/sass.png" alt="SCSS" width="25" height="25" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@latest/src/scss/scss.png" alt="SCSS" width="25" height="25" style="margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/bootstrap/bootstrap.png" alt="Bootstrap" width="25" height="25" style="margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" alt="JavaScript" width="25" height="25" style="margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/angular/angular.png" alt="Angular" width="25" height="25" style="margin-right: 10px;">
