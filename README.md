@@ -38,3 +38,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertcan-taskiran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mertcan-taskiran)](https://github.com/ryo-ma/github-profile-trophy)
+
