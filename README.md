@@ -10,7 +10,7 @@
 ## 🌐Socials:
 
 [<img align="left" alt="yourusername | LinkedIn" width="25px" height="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="yourusername | Instagram" width="25px" height="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />][instagram]
+[<img align="left" alt="yourusername | Instagram" width="25px" height="25px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="your-discord-username | Discord" width="25px" height="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />][discord]
 
 [linkedin]: https://linkedin.com/in/mertcntaskiran/
