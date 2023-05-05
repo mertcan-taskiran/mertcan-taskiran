@@ -1,3 +1,5 @@
+<div align="center">
+
 ## Hi 👋, I'm Mertcan Taşkıran
 
 - 🔭 I’m currently working on React.js, Java
@@ -45,3 +47,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mertcan-taskiran&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
