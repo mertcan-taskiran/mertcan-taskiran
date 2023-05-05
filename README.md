@@ -17,15 +17,16 @@
 [instagram]: https://instagram.com/mertcan.tskrn/
 [discord]: https://discordapp.com/users/Mertcan#0694
 
-## Technologies
+
+## Teknolojiler
 
 <div>
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" alt="HTML" style="width: 25px; height: 25px; margin-right: 5px;">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" alt="CSS" style="width: 25px; height: 25px; margin-right: 5px;">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/sass/sass.png" alt="SCSS" style="width: 25px; height: 25px; margin-right: 5px;">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/bootstrap/bootstrap.png" alt="Bootstrap" style="width: 25px; height: 25px; margin-right: 5px;">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" alt="JavaScript" style="width: 25px; height: 25px; margin-right: 5px;">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/angular/angular.png" alt="Angular" style="width: 25px; height: 25px; margin-right: 5px;">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" alt="C#" style="width: 25px; height: 25px; margin-right: 5px;">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/dotnet/dotnet.png" alt="ASP.NET" style="width: 25px; height: 25px;">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" alt="HTML" width="25" height="25" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" alt="CSS" width="25" height="25" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/sass/sass.png" alt="SCSS" width="25" height="25" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/bootstrap/bootstrap.png" alt="Bootstrap" width="25" height="25" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" alt="JavaScript" width="25" height="25" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/angular/angular.png" alt="Angular" width="25" height="25" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" alt="C#" width="25" height="25" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/dotnet/dotnet.png" alt="ASP.NET" width="25" height="25">
 </div>
