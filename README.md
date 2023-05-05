@@ -9,9 +9,9 @@
 
 ## 🌐Socials
 
-[<img align="left" alt="yourusername | LinkedIn" width="25px" height="25px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="yourusername | Instagram" width="25px" height="25px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="your-discord-username | Discord" width="25px" height="25px" src="https://img.icons8.com/color/48/000000/discord--v1.png" />][discord]
+[<img align="left" alt="yourusername | LinkedIn" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="yourusername | Instagram" width="50px" height="50px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="your-discord-username | Discord" width="50px" height="50px" src="https://img.icons8.com/color/48/000000/discord--v1.png" />][discord]
 
 [linkedin]: https://linkedin.com/in/mertcntaskiran/
 [instagram]: https://instagram.com/mertcan.tskrn/
@@ -26,7 +26,7 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="50" height="50" style="margin-right: 10px;">
   <img src="https://img.icons8.com/color/48/000000/sass-avatar.png" alt="SCSS" width="50" height="50" style="margin-right: 10px;">
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="50" height="50" style="margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="25" height="25" style="margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="50" height="50" style="margin-right: 10px;">
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="50" height="50" style="margin-right: 10px;">
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C#" width="50" height="50" style="margin-right: 10px;">
   <img src="https://img.icons8.com/color/48/000000/asp.png" alt="ASP.NET" width="50" height="50">
