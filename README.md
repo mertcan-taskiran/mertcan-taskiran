@@ -7,7 +7,7 @@
 
 Öz Geçmiş --> [mertcantaskiran-cv.pdf](https://github.com/mertcan-taskiran/mertcan-taskiran/files/11405671/mertcantaskiran-cv.pdf)
 
-## 🌐Socials:
+## 🌐Socials
 
 [<img align="left" alt="yourusername | LinkedIn" width="25px" height="25px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="yourusername | Instagram" width="25px" height="25px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
@@ -19,7 +19,7 @@
 
 <br>
 
-## Technologies
+## 💻 Technologies
 
 <div>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="25" height="25" style="margin-right: 10px;">
