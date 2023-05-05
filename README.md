@@ -3,6 +3,7 @@
 ## Hi 👋, I'm Mertcan Taşkıran
 
 🔭 I’m currently working on React.js, Java
+  
 🌱 I’m currently learning FRONTEND and BACKEND
 
 📫 How to reach mertcn.taskiran@gmail.com
