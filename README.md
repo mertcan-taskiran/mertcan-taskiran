@@ -18,9 +18,7 @@ CV --> [mertcantaskiran-cv.pdf](https://github.com/mertcan-taskiran/mertcan-task
   <img src="https://img.icons8.com/color/48/000000/sass-avatar.png" alt="SCSS" width="50" height="50" style="margin-right: 10px;">
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="50" height="50" style="margin-right: 10px;">
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="50" height="50" style="margin-right: 10px;">
-  <img src="link_to_react_image" alt="React" width="50" height="50" style="margin-right: 10px;">  
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="50" height="50" style="margin-right: 10px;">
-  <img src="link_to_java_image" alt="Java" width="50" height="50" style="margin-right: 10px;">
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="C#" width="50" height="50" style="margin-right: 10px;">
   <img src="https://img.icons8.com/color/48/000000/asp.png" alt="ASP.NET" width="50" height="50">
 </div>
