@@ -110,7 +110,6 @@
 <h2>📄 CV 📄</h2>
 
 ###
-[mertcan-taskiran.pdf](https://github.com/mertcan-taskiran/mertcan-taskiran/files/13951908/mertcan-taskiran.pdf)
-
+[mertcantaskiran.pdf](https://github.com/mertcan-taskiran/mertcan-taskiran/files/14692180/mertcantaskiran.pdf)
 
 </div>
