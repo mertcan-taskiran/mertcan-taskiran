@@ -18,9 +18,6 @@
   <a href="https://www.instagram.com/mertcan.tskrn/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="50" alt="instagram logo"  />
   </a>
-  <a href="https://www.discordapp.com/users/Mertcan#0694" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="50" alt="discord logo"  />
-  </a>
     
 </div>
 
@@ -110,6 +107,7 @@
 <h2>📄 CV 📄</h2>
 
 ###
-[mertcantaskiran.pdf](https://github.com/mertcan-taskiran/mertcan-taskiran/files/14692180/mertcantaskiran.pdf)
+[mertcantaskiran-cv.pdf](https://github.com/user-attachments/files/21433257/mertcantaskiran-cv.pdf)
+
 
 </div>
